@@ -12,6 +12,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //Colocar icono en el accionBar
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
+        //Colocamos la ruta de nuestro icono
+        getSupportActionBar().setIcon(R.mipmap.ic_launcher);
     }
 
     //Metodo para

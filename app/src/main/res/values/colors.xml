@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!--Edicion de colores para los menus-->
+    <color name="colorPrimary">#FFA000</color>
+    <color name="colorPrimaryDark">#FF5722</color>
+    <color name="colorAccent">#FFECB3</color>
+    <!--Fin de los colores personalizados-->
 </resources>
